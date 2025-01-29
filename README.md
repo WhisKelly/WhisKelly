@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhisKelly
+- 👋 Hi, I’m Kelly
 - 👀 I’m interested in everything about data
 - 🌱 I’m currently working in one office of data
 - 💞️ I’m looking to continue my studies as a data scientist engineer
