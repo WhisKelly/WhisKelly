@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelly.
 - 👀 I’m interested in everything about data.
-- 🌱 I currently work on personal projects.
-- 💞️ I’m looking to continue my studies as a data scientist engineer but for the time being I would like to collaborate on projects that involve data and have a real impact.
+- 🌱 I currently study data science with a focus on scientific exploration and modeling. 
+- 💞️ I’m looking to go forward and to become a data scientist engineer; I am also ready to collaborate on projects that involve data and have a real impact.
 - 📫 How to reach me: e-mail me at ahougbekelly@gmail.com
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I like reading and leading.
